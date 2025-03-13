@@ -1,0 +1,3 @@
+population_size: 50
+mutation_rate: 0.1
+generations: 100
