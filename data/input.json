@@ -1,0 +1,16 @@
+{
+    "jobs": [
+        {"job_id": 1, "req_nodes": [23], "num_cores_alloc": 4, "num_gpus_alloc": 0, "mem_alloc_MB": 240},
+        {"job_id": 2, "req_nodes": [24], "num_cores_alloc": 8, "num_gpus_alloc": 1, "mem_alloc_MB": 500},
+        {"job_id": 3, "req_nodes": [23], "num_cores_alloc": 16, "num_gpus_alloc": 0, "mem_alloc_MB": 1000},
+        {"job_id": 4, "req_nodes": [24], "num_cores_alloc": 32, "num_gpus_alloc": 2, "mem_alloc_MB": 1500}
+    ],
+    "nodes": [
+        {"id": 763, "num_cores_total": 128, "num_gpus_total": 4, "mem_total_MB": 262144},
+        {"id": 878, "num_cores_total": 128, "num_gpus_total": 4, "mem_total_MB": 262144},
+        {"id": 94, "num_cores_total": 128, "num_gpus_total": 4, "mem_total_MB": 262144},
+        {"id": 773, "num_cores_total": 128, "num_gpus_total": 4, "mem_total_MB": 262144},
+        {"id": 206, "num_cores_total": 128, "num_gpus_total": 4, "mem_total_MB": 262144}
+    ],
+    "weakest_nodes": [23, 24]
+}
