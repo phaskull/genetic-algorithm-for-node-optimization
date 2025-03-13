@@ -1,8 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Sample Data (Replace with actual data)
-nodes = np.arange(100)  # Replace with actual node indices
+nodes = np.arange(100)  
 before_ga_cpu = np.random.randint(1000, 20000, size=100)  
 after_ga_cpu = np.random.randint(1000, 20000, size=100)  
 
