@@ -38,14 +38,6 @@ This project implements a **Genetic Algorithm (GA)** to solve a **node optimizat
 │   ├── fitness_graph.png        # Convergence plot of GA generations
 │   └── logs/                    # Logs of experiment runs
 │
-├───docs
-│   ├── installation.md      # Installation guide
-│   ├── usage.md             # Instructions on how to run experiments
-│   └── algorithm.md         # Detailed explanation of GA methodology
-│
-└── .gitignore               # Ignore unnecessary files
-```
-
 ---
 
 ## Setup and Installation
@@ -118,13 +110,6 @@ Results are saved in the **results/** directory:
 - **Ensure correct handling of constraints** to avoid invalid solutions.
 - **Test different crossover/mutation rates** for improved convergence.
 - **Use logging and visualization** to debug and analyze optimization performance.
-
----
-
-## Contributing
-- Fork the repository and apply your modifications.
-- Submit a **pull request** for proposed improvements.
-- Adhere to best coding practices and documentation guidelines.
 
 ---
 
