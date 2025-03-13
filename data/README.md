@@ -6,10 +6,10 @@ This repository contains job optimization data based on the **PM100 Dataset**. T
 ## Data Structure
 The dataset consists of two primary JSON files:
 
-### **1️⃣ `input.json` (Job Allocation Data)**
+### **1 `input.json` (Job Allocation Data)**
 This file contains information about jobs, their assigned nodes, and resource allocations.
 
-### **2️⃣ `output.json` (Optimized Job Distribution)**
+### **2 `output.json` (Optimized Job Distribution)**
 This file contains the results of the optimization, indicating which jobs were migrated and which nodes can be shut down.
 
 ## PM100 Dataset Integration
