@@ -40,14 +40,6 @@ This project implements a **Genetic Algorithm (GA)** to solve a **node optimizat
 │
 ---
 
-## Setup and Installation
-
-### 1. Prerequisites
-Ensure you have **Python 3.7 or higher** and install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
 ### 2. Running the Genetic Algorithm
 Navigate to the project directory and execute:
 ```bash
