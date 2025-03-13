@@ -1,0 +1,6 @@
+{
+    "status": "Weakest nodes [23, 24] are now empty and can be shut down.",
+    "migrated_jobs": [1, 2, 3, 4],
+    "optimized_nodes": [763, 878, 94, 773, 206],
+    "total_jobs_processed": 4
+}
